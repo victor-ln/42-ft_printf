@@ -33,7 +33,7 @@ The goal of this project was pretty simple, <br> I needed to recode `int printf(
 
 - Add `#include "ft_printf.h"` in your source code or header file.
 - Compile with:
-``gcc libftprintf.a main.c``
+``gcc main.c libftprintf.a -I inc -I libft``
 
 ## How it works ?
 
