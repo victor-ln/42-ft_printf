@@ -8,7 +8,7 @@
 - [How to run](#How-to-run)
 - [Usage](#Usage)
 - [How it works](#How-it-works)
-- [What I've learned](#What-I've-learned)
+- [What I have learned](#What-I-have-learned)
 
 ## Introduction
 This is my third project as a student at school 42 São Paulo. 
@@ -43,7 +43,7 @@ arguments accessed via the variable-length argument facilities of
 stdarg(3)) are converted for output. Upon successful, it returns the number of characters printed 
 (excluding the null byte used to end output to strings).
 
-## What I've learned
+## What I have learned
 
 - Implementing variable numbers of arguments
 - Flags in functions
